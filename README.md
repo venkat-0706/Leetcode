@@ -882,6 +882,7 @@ https://leetcode.com/submissions/#/1
 | [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/venkat-0706/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/venkat-0706/leetcode/tree/master/0476-number-complement) |
 | [0756-pyramid-transition-matrix](https://github.com/venkat-0706/leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -916,6 +917,7 @@ https://leetcode.com/submissions/#/1
 | [0089-gray-code](https://github.com/venkat-0706/leetcode/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0306-additive-number](https://github.com/venkat-0706/leetcode/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/venkat-0706/leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/venkat-0706/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
