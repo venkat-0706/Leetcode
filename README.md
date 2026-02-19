@@ -69,6 +69,7 @@ https://leetcode.com/submissions/#/1
 | [0345-reverse-vowels-of-a-string](https://github.com/venkat-0706/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/venkat-0706/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/venkat-0706/leetcode/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0696-count-binary-substrings) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/venkat-0706/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/venkat-0706/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -110,6 +111,7 @@ https://leetcode.com/submissions/#/1
 | [0392-is-subsequence](https://github.com/venkat-0706/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/venkat-0706/leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/venkat-0706/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/venkat-0706/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
