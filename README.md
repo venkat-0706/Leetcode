@@ -114,6 +114,7 @@ https://leetcode.com/submissions/#/1
 | [0696-count-binary-substrings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/venkat-0706/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/venkat-0706/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0761-special-binary-string) |
 | [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
@@ -556,6 +557,7 @@ https://leetcode.com/submissions/#/1
 | [0190-reverse-bits](https://github.com/venkat-0706/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/venkat-0706/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0761-special-binary-string) |
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -575,6 +577,7 @@ https://leetcode.com/submissions/#/1
 | [0628-maximum-product-of-three-numbers](https://github.com/venkat-0706/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0759-set-intersection-size-at-least-two](https://github.com/venkat-0706/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1200-minimum-absolute-difference) |
