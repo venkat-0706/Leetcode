@@ -128,6 +128,7 @@ https://leetcode.com/submissions/#/1
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/venkat-0706/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venkat-0706/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/venkat-0706/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1502-construct-k-palindrome-strings](https://github.com/venkat-0706/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/venkat-0706/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -499,6 +500,7 @@ https://leetcode.com/submissions/#/1
 | [1364-tuple-with-same-product](https://github.com/venkat-0706/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/venkat-0706/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/venkat-0706/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/venkat-0706/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/venkat-0706/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -897,6 +899,7 @@ https://leetcode.com/submissions/#/1
 | [0868-binary-gap](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/venkat-0706/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/venkat-0706/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1940-maximum-xor-for-each-query](https://github.com/venkat-0706/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -1283,11 +1286,13 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/venkat-0706/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/venkat-0706/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
