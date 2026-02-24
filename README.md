@@ -656,6 +656,7 @@ https://leetcode.com/submissions/#/1
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/venkat-0706/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/venkat-0706/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/venkat-0706/leetcode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/venkat-0706/leetcode/tree/master/0494-target-sum) |
@@ -888,6 +889,7 @@ https://leetcode.com/submissions/#/1
 | [0201-bitwise-and-of-numbers-range](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/venkat-0706/leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
