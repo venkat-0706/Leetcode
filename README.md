@@ -1112,6 +1112,7 @@ https://leetcode.com/submissions/#/1
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkat-0706/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/venkat-0706/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1161,6 +1162,7 @@ https://leetcode.com/submissions/#/1
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkat-0706/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/venkat-0706/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1180,6 +1182,7 @@ https://leetcode.com/submissions/#/1
 | [0854-making-a-large-island](https://github.com/venkat-0706/leetcode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/venkat-0706/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/venkat-0706/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
