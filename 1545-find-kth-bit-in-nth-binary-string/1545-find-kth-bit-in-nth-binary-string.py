@@ -1,0 +1,14 @@
+class Solution:
+    def findKthBit(self, n: int, k: int) -> str:
+        if n==1:
+            return '0'
+        leng = (1<<n)-1
+        mid = (leng+1)//2
+        if k == mid:
+            return  '1'
+        if k < mid:
+            return self.findKthBit(n-1,k)
+        c = self.findKthBit(n-1,leng-k+1)
+        return '1' if c =='0' else '0'
+
+        
