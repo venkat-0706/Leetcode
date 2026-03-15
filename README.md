@@ -756,6 +756,7 @@ https://leetcode.com/submissions/#/1
 | [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/venkat-0706/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1622-fancy-sequence](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/venkat-0706/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/venkat-0706/leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/venkat-0706/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -1324,6 +1325,7 @@ https://leetcode.com/submissions/#/1
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1622-fancy-sequence) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/venkat-0706/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/venkat-0706/leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -1388,6 +1390,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1622-fancy-sequence](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/venkat-0706/leetcode/tree/master/2169-simple-bank-system) |
 | [2434-design-a-number-container-system](https://github.com/venkat-0706/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
