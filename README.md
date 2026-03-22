@@ -361,6 +361,7 @@ https://leetcode.com/submissions/#/1
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/venkat-0706/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/venkat-0706/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/venkat-0706/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/venkat-0706/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -1037,6 +1038,7 @@ https://leetcode.com/submissions/#/1
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/venkat-0706/leetcode/tree/master/1876-map-of-highest-peak) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/venkat-0706/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/1975-maximum-matrix-sum) |
