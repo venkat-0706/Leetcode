@@ -170,6 +170,7 @@ https://leetcode.com/submissions/#/1
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/venkat-0706/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/venkat-0706/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/venkat-0706/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/venkat-0706/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -562,6 +563,7 @@ https://leetcode.com/submissions/#/1
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/venkat-0706/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/venkat-0706/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/venkat-0706/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkat-0706/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/venkat-0706/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -641,6 +643,7 @@ https://leetcode.com/submissions/#/1
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/venkat-0706/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/venkat-0706/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/venkat-0706/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/venkat-0706/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
