@@ -181,6 +181,7 @@ https://leetcode.com/submissions/#/1
 | [3447-clear-digits](https://github.com/venkat-0706/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/venkat-0706/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/venkat-0706/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkat-0706/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/venkat-0706/leetcode/tree/master/3606-coupon-code-validator) |
@@ -248,6 +249,7 @@ https://leetcode.com/submissions/#/1
 | [3075-maximize-happiness-of-selected-children](https://github.com/venkat-0706/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3195-separate-black-and-white-balls](https://github.com/venkat-0706/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkat-0706/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1299,6 +1301,7 @@ https://leetcode.com/submissions/#/1
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/venkat-0706/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/venkat-0706/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Number Theory
 |  |
 | ------- |
