@@ -319,6 +319,7 @@ https://leetcode.com/submissions/#/1
 | [0787-sliding-puzzle](https://github.com/venkat-0706/leetcode/tree/master/0787-sliding-puzzle) |
 | [0840-magic-squares-in-grid](https://github.com/venkat-0706/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/venkat-0706/leetcode/tree/master/0854-making-a-large-island) |
+| [0874-walking-robot-simulation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/venkat-0706/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0944-delete-columns-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -533,6 +534,7 @@ https://leetcode.com/submissions/#/1
 | [0756-pyramid-transition-matrix](https://github.com/venkat-0706/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/venkat-0706/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1017,6 +1019,7 @@ https://leetcode.com/submissions/#/1
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/venkat-0706/leetcode/tree/master/1642-water-bottles) |
