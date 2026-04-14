@@ -412,6 +412,7 @@ https://leetcode.com/submissions/#/1
 | [2402-meeting-rooms-iii](https://github.com/venkat-0706/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/venkat-0706/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2463-minimum-total-distance-traveled](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-shifting-letters-ii](https://github.com/venkat-0706/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/venkat-0706/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -656,6 +657,7 @@ https://leetcode.com/submissions/#/1
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkat-0706/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/venkat-0706/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/venkat-0706/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/venkat-0706/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -749,6 +751,7 @@ https://leetcode.com/submissions/#/1
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkat-0706/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/venkat-0706/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
