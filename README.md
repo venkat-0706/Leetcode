@@ -840,6 +840,7 @@ https://leetcode.com/submissions/#/1
 | [3676-smallest-number-with-all-set-bits](https://github.com/venkat-0706/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/venkat-0706/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
