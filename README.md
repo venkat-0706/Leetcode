@@ -428,6 +428,7 @@ https://leetcode.com/submissions/#/1
 | [2573-find-the-string-with-lcp](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/venkat-0706/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2615-sum-of-distances) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/venkat-0706/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/venkat-0706/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/venkat-0706/leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -579,6 +580,7 @@ https://leetcode.com/submissions/#/1
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/venkat-0706/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/venkat-0706/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2615-sum-of-distances](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/venkat-0706/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/venkat-0706/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/venkat-0706/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -1212,6 +1214,7 @@ https://leetcode.com/submissions/#/1
 | [2465-shifting-letters-ii](https://github.com/venkat-0706/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/venkat-0706/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2615-sum-of-distances](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/venkat-0706/leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/venkat-0706/leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/venkat-0706/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
