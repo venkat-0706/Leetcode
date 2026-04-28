@@ -1204,6 +1204,7 @@ https://leetcode.com/submissions/#/1
 | [0596-classes-with-at-least-5-students](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1148-article-views-i) |
 | [1258-article-views-i](https://github.com/venkat-0706/leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/venkat-0706/leetcode/tree/master/1827-invalid-tweets) |
