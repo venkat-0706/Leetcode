@@ -1207,6 +1207,7 @@ https://leetcode.com/submissions/#/1
 | [1068-product-sales-analysis-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1148-article-views-i) |
 | [1258-article-views-i](https://github.com/venkat-0706/leetcode/tree/master/1258-article-views-i) |
+| [1683-invalid-tweets](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1683-invalid-tweets) |
 | [1827-invalid-tweets](https://github.com/venkat-0706/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/venkat-0706/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
