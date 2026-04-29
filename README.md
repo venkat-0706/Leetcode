@@ -1209,6 +1209,7 @@ https://leetcode.com/submissions/#/1
 | [0627-swap-sex-of-employees](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1148-article-views-i) |
 | [1258-article-views-i](https://github.com/venkat-0706/leetcode/tree/master/1258-article-views-i) |
 | [1587-bank-account-summary-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1587-bank-account-summary-ii) |
