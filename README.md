@@ -1214,6 +1214,7 @@ https://leetcode.com/submissions/#/1
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1148-article-views-i) |
 | [1258-article-views-i](https://github.com/venkat-0706/leetcode/tree/master/1258-article-views-i) |
+| [1517-find-users-with-valid-e-mails](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1683-invalid-tweets) |
 | [1827-invalid-tweets](https://github.com/venkat-0706/leetcode/tree/master/1827-invalid-tweets) |
