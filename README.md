@@ -306,6 +306,7 @@ https://leetcode.com/submissions/#/1
 | [0240-search-a-2d-matrix-ii](https://github.com/venkat-0706/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/venkat-0706/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0283-move-zeroes) |
+| [0396-rotate-function](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/venkat-0706/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/venkat-0706/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0474-ones-and-zeroes) |
@@ -740,6 +741,7 @@ https://leetcode.com/submissions/#/1
 | [0152-maximum-product-subarray](https://github.com/venkat-0706/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/venkat-0706/leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/venkat-0706/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0509-fibonacci-number) |
@@ -812,6 +814,7 @@ https://leetcode.com/submissions/#/1
 | [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/venkat-0706/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkat-0706/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
