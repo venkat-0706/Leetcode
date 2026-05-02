@@ -747,6 +747,7 @@ https://leetcode.com/submissions/#/1
 | [0509-fibonacci-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0509-fibonacci-number) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/venkat-0706/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/venkat-0706/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0799-champagne-tower) |
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -819,6 +820,7 @@ https://leetcode.com/submissions/#/1
 | [0628-maximum-product-of-three-numbers](https://github.com/venkat-0706/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/venkat-0706/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
