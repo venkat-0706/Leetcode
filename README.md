@@ -307,6 +307,7 @@ https://leetcode.com/submissions/#/1
 | [0238-product-of-array-except-self](https://github.com/venkat-0706/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/venkat-0706/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/venkat-0706/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/venkat-0706/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -551,6 +552,7 @@ https://leetcode.com/submissions/#/1
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/venkat-0706/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/venkat-0706/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/venkat-0706/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -651,6 +653,7 @@ https://leetcode.com/submissions/#/1
 | [0088-merge-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/venkat-0706/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkat-0706/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -813,6 +816,7 @@ https://leetcode.com/submissions/#/1
 | [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/venkat-0706/leetcode/tree/master/0367-valid-perfect-square) |
@@ -879,6 +883,7 @@ https://leetcode.com/submissions/#/1
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/venkat-0706/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/venkat-0706/leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/venkat-0706/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/venkat-0706/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/venkat-0706/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1004,6 +1009,7 @@ https://leetcode.com/submissions/#/1
 | [0201-bitwise-and-of-numbers-range](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/venkat-0706/leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0371-sum-of-two-integers) |
