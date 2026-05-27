@@ -1,20 +1,15 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        Max_int = 2 ** 31 - 1
-        Min_int = -2 ** 31
+        temp = abs(x) 
+        rev = 0 
+        while temp > 0 :
+            rem = temp%10 
+            rev = rev*10 + rem 
+            temp //= 10 
+        rev = rev if x>=0  else -rev 
+        if rev < -2**31 or rev > 2**31-1:
+            return 0 
+        return rev
 
-        res = 0
-        lamp = False
-        if x < 0:
-            x = x * (-1)
-            lamp = True
-        while x > 0:
-            res = res * 10 + x % 10
-            x //= 10
+
         
-        if res > Max_int or res < Min_int:
-            return 0
-        else:
-            if lamp:
-                res = -res
-            return res
