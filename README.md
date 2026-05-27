@@ -396,6 +396,7 @@ https://leetcode.com/submissions/#/1
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2054-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2057-smallest-index-with-equal-value](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2058-concatenation-of-array](https://github.com/venkat-0706/leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/venkat-0706/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
