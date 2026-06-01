@@ -1217,6 +1217,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/venkat-0706/leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/venkat-0706/leetcode/tree/master/0182-duplicate-emails) |
