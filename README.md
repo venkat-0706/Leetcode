@@ -368,6 +368,7 @@ https://leetcode.com/submissions/#/1
 | [1524-string-matching-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/venkat-0706/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1539-kth-missing-positive-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/venkat-0706/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkat-0706/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -898,6 +899,7 @@ https://leetcode.com/submissions/#/1
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/venkat-0706/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/venkat-0706/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/venkat-0706/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/venkat-0706/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
