@@ -381,6 +381,7 @@ https://leetcode.com/submissions/#/1
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkat-0706/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/venkat-0706/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/venkat-0706/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
