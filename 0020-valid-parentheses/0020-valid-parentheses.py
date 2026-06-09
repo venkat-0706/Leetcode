@@ -9,7 +9,7 @@ class Solution:
             elif s[i] == "[":
                 stack.append("]")
             else:
-                if not stack or stack.pop() != s[i]:
+                if len(stack) == 0  or stack.pop() != s[i]:
                     return False
 
         return len(stack) == 0
