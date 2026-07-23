@@ -1257,6 +1257,7 @@ https://leetcode.com/submissions/#/1
 | [1084-sales-analysis-iii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1148-article-views-i) |
+| [1158-market-analysis-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1158-market-analysis-i) |
 | [1258-article-views-i](https://github.com/venkat-0706/leetcode/tree/master/1258-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
