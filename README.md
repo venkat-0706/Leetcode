@@ -1262,6 +1262,7 @@ https://leetcode.com/submissions/#/1
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1527-patients-with-a-condition](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/venkat-0706/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
