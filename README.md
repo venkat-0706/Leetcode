@@ -905,6 +905,7 @@ https://leetcode.com/submissions/#/1
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/venkat-0706/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/venkat-0706/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/venkat-0706/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1515,6 +1516,7 @@ https://leetcode.com/submissions/#/1
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/venkat-0706/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Rolling Hash
 |  |
