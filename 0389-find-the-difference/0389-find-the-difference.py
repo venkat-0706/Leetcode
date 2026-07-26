@@ -1,7 +1,10 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        for i in t:
-            if s.count(i)!=t.count(i):
-                return i
-
+        xor = 0 
+        for ch in s:
+            xor = xor^ ord(ch)
         
+        for ch in t:
+            xor = xor^ord(ch)
+
+        return chr(xor)
