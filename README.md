@@ -1255,6 +1255,7 @@ https://leetcode.com/submissions/#/1
 | [0595-big-countries](https://github.com/venkat-0706/leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1068-product-sales-analysis-i) |
