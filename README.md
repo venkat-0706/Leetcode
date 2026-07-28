@@ -199,6 +199,7 @@ https://leetcode.com/submissions/#/1
 | [3474-lexicographically-smallest-generated-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/venkat-0706/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkat-0706/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/venkat-0706/leetcode/tree/master/3606-coupon-code-validator) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -717,6 +718,7 @@ https://leetcode.com/submissions/#/1
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3433-count-mentions-per-user](https://github.com/venkat-0706/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/venkat-0706/leetcode/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/venkat-0706/leetcode/tree/master/3606-coupon-code-validator) |
@@ -1583,6 +1585,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0912-sort-an-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
