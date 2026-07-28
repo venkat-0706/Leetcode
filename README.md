@@ -1276,6 +1276,7 @@ https://leetcode.com/submissions/#/1
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/venkat-0706/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/venkat-0706/leetcode/tree/master/1827-invalid-tweets) |
