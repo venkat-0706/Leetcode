@@ -74,6 +74,7 @@ https://leetcode.com/submissions/#/1
 | [0443-string-compression](https://github.com/venkat-0706/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0696-count-binary-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/venkat-0706/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/venkat-0706/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -350,6 +351,7 @@ https://leetcode.com/submissions/#/1
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/venkat-0706/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/venkat-0706/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/venkat-0706/leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -681,6 +683,7 @@ https://leetcode.com/submissions/#/1
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/venkat-0706/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venkat-0706/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
