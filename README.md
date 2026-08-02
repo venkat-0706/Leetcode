@@ -346,6 +346,7 @@ https://leetcode.com/submissions/#/1
 | [0840-magic-squares-in-grid](https://github.com/venkat-0706/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/venkat-0706/leetcode/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/venkat-0706/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0912-sort-an-array) |
@@ -788,6 +789,7 @@ https://leetcode.com/submissions/#/1
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/venkat-0706/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
@@ -864,6 +866,7 @@ https://leetcode.com/submissions/#/1
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/venkat-0706/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1621,6 +1624,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0877-stone-game) |
 ## Combinatorics
 |  |
 | ------- |
