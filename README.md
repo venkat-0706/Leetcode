@@ -557,6 +557,7 @@ https://leetcode.com/submissions/#/1
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -648,6 +649,7 @@ https://leetcode.com/submissions/#/1
 | [3714-longest-balanced-substring-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -738,6 +740,7 @@ https://leetcode.com/submissions/#/1
 | [3634-minimum-removals-to-balance-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkat-0706/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
