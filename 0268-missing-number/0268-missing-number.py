@@ -1,11 +1,11 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        n =  len(nums)
-        actual_sum = (n*(n+1)) // 2
-        curr_sum = 0 
-        for i in range(n):
-            curr_sum += nums[i]
-
-        return actual_sum - curr_sum
+        n = len(nums)
+        hash = [0]*(n+1)
+        for num in nums:
+            hash[num] = 1 
+        for i in range(n+1):
+            if hash[i] == 0:
+                return i
 
         
