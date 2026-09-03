@@ -569,6 +569,7 @@ https://leetcode.com/submissions/#/1
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/venkat-0706/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3875-construct-uniform-parity-array-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -920,6 +921,7 @@ https://leetcode.com/submissions/#/1
 | [3783-mirror-distance-of-an-integer](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/venkat-0706/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3875-construct-uniform-parity-array-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
