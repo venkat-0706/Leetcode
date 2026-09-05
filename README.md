@@ -571,6 +571,7 @@ https://leetcode.com/submissions/#/1
 | [3875-construct-uniform-parity-array-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1359,6 +1360,7 @@ https://leetcode.com/submissions/#/1
 | [3721-longest-balanced-subarray-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/venkat-0706/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3903-smallest-stable-index-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
 |  |
 | ------- |
