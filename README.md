@@ -136,6 +136,7 @@ https://leetcode.com/submissions/#/1
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/venkat-0706/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1143-longest-common-subsequence](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/venkat-0706/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -813,6 +814,7 @@ https://leetcode.com/submissions/#/1
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/venkat-0706/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/venkat-0706/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1143-longest-common-subsequence](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/venkat-0706/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/venkat-0706/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1712,4 +1714,8 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
