@@ -347,6 +347,7 @@ https://leetcode.com/submissions/#/1
 | [0759-set-intersection-size-at-least-two](https://github.com/venkat-0706/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/venkat-0706/leetcode/tree/master/0787-sliding-puzzle) |
+| [0835-image-overlap](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/venkat-0706/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/venkat-0706/leetcode/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -1191,6 +1192,7 @@ https://leetcode.com/submissions/#/1
 | [0407-trapping-rain-water-ii](https://github.com/venkat-0706/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/venkat-0706/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0787-sliding-puzzle](https://github.com/venkat-0706/leetcode/tree/master/0787-sliding-puzzle) |
+| [0835-image-overlap](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/venkat-0706/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/venkat-0706/leetcode/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
