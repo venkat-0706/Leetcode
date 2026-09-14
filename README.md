@@ -120,6 +120,7 @@ https://leetcode.com/submissions/#/1
 | [0383-ransom-note](https://github.com/venkat-0706/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/venkat-0706/leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/venkat-0706/leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -882,6 +883,7 @@ https://leetcode.com/submissions/#/1
 | [0367-valid-perfect-square](https://github.com/venkat-0706/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkat-0706/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1149,6 +1151,7 @@ https://leetcode.com/submissions/#/1
 | [0043-multiply-strings](https://github.com/venkat-0706/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
