@@ -887,6 +887,7 @@ https://leetcode.com/submissions/#/1
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/venkat-0706/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
@@ -1679,6 +1680,7 @@ https://leetcode.com/submissions/#/1
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/venkat-0706/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/venkat-0706/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
