@@ -86,6 +86,7 @@ https://leetcode.com/submissions/#/1
 | [2265-partition-array-according-to-given-pivot](https://github.com/venkat-0706/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/venkat-0706/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/venkat-0706/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/venkat-0706/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/venkat-0706/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -183,6 +184,7 @@ https://leetcode.com/submissions/#/1
 | [2414-move-pieces-to-obtain-a-string](https://github.com/venkat-0706/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2465-shifting-letters-ii](https://github.com/venkat-0706/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/venkat-0706/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2580-circular-sentence](https://github.com/venkat-0706/leetcode/tree/master/2580-circular-sentence) |
@@ -264,6 +266,7 @@ https://leetcode.com/submissions/#/1
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkat-0706/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/venkat-0706/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/venkat-0706/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/venkat-0706/leetcode/tree/master/2509-minimize-xor) |
 | [2573-find-the-string-with-lcp](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2573-find-the-string-with-lcp) |
@@ -836,6 +839,7 @@ https://leetcode.com/submissions/#/1
 | [2164-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/venkat-0706/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
