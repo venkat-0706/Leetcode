@@ -886,6 +886,7 @@ https://leetcode.com/submissions/#/1
 | [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/venkat-0706/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -1020,6 +1021,7 @@ https://leetcode.com/submissions/#/1
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/venkat-0706/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0509-fibonacci-number) |
