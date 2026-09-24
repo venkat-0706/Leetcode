@@ -545,6 +545,7 @@ https://leetcode.com/submissions/#/1
 | [3531-count-covered-buildings](https://github.com/venkat-0706/leetcode/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkat-0706/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -942,6 +943,7 @@ https://leetcode.com/submissions/#/1
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3524-find-x-value-of-array-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/venkat-0706/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/venkat-0706/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
