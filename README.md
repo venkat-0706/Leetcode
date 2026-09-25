@@ -139,6 +139,7 @@ https://leetcode.com/submissions/#/1
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/venkat-0706/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1096-brace-expansion-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -226,6 +227,7 @@ https://leetcode.com/submissions/#/1
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1096-brace-expansion-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkat-0706/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -613,6 +615,7 @@ https://leetcode.com/submissions/#/1
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/venkat-0706/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venkat-0706/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -718,6 +721,7 @@ https://leetcode.com/submissions/#/1
 | [0912-sort-an-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/venkat-0706/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venkat-0706/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1158,6 +1162,7 @@ https://leetcode.com/submissions/#/1
 | [0401-binary-watch](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/venkat-0706/leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/venkat-0706/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1096-brace-expansion-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1980-find-unique-binary-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -1449,6 +1454,7 @@ https://leetcode.com/submissions/#/1
 | [0820-find-eventual-safe-states](https://github.com/venkat-0706/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/venkat-0706/leetcode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1096-brace-expansion-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/venkat-0706/leetcode/tree/master/1396-count-servers-that-communicate) |
