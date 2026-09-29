@@ -456,6 +456,7 @@ https://leetcode.com/submissions/#/1
 | [2210-find-target-indices-after-sorting-array](https://github.com/venkat-0706/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/venkat-0706/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/venkat-0706/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/venkat-0706/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/venkat-0706/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkat-0706/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -854,6 +855,7 @@ https://leetcode.com/submissions/#/1
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/venkat-0706/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkat-0706/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1251,6 +1253,7 @@ https://leetcode.com/submissions/#/1
 | [1975-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/venkat-0706/leetcode/tree/master/2145-grid-game) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/venkat-0706/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/venkat-0706/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1782,4 +1785,5 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
