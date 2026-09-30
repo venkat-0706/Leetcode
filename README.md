@@ -140,6 +140,7 @@ https://leetcode.com/submissions/#/1
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1096-brace-expansion-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -231,6 +232,7 @@ https://leetcode.com/submissions/#/1
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1096-brace-expansion-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkat-0706/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1783,6 +1785,7 @@ https://leetcode.com/submissions/#/1
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
