@@ -14,4 +14,4 @@ class Solution:
 
         return len(stack) == 0
             
-        
+
