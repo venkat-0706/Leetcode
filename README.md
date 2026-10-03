@@ -106,6 +106,7 @@ https://leetcode.com/submissions/#/1
 | [0013-roman-to-integer](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/venkat-0706/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/venkat-0706/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/venkat-0706/leetcode/tree/master/0044-wildcard-matching) |
@@ -227,6 +228,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/venkat-0706/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/venkat-0706/leetcode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -812,6 +814,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/venkat-0706/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/venkat-0706/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/venkat-0706/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/venkat-0706/leetcode/tree/master/0053-maximum-subarray) |
@@ -1790,6 +1793,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0020-valid-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
