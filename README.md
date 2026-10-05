@@ -136,6 +136,7 @@ https://leetcode.com/submissions/#/1
 | [0761-special-binary-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
@@ -234,6 +235,7 @@ https://leetcode.com/submissions/#/1
 | [0085-maximal-rectangle](https://github.com/venkat-0706/leetcode/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1096-brace-expansion-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -1799,6 +1801,7 @@ https://leetcode.com/submissions/#/1
 | [0022-generate-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
