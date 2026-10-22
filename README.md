@@ -1806,4 +1806,12 @@ https://leetcode.com/submissions/#/1
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
